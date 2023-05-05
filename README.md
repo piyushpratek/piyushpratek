@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @piyushprateek                                      
- -🔭 
 - 🌱 Full Stack | Mern Stack Developer | JavaScript | TypeScript 
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me piyushprateek231996@gmail.com
