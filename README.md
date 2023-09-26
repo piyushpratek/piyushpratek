@@ -1,7 +1,32 @@
-- 👋 Hi, I’m @piyushprateek                                      
-- 🌱 Full Stack | Mern Stack Developer | JavaScript | TypeScript 
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me piyushprateek231996@gmail.com
+## 👋 Hi, I'm Piyush Prateek
+
+I'm a passionate Full Stack Developer specializing in MERN Stack development with expertise in JavaScript and TypeScript.
+
+### Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-yellow)
+![React](https://img.shields.io/badge/React-★★★☆☆-blue)
+![Node.js](https://img.shields.io/badge/Node.js-★★★☆☆-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-brightgreen)
+
+### Featured Projects
+
+| Project Name         | Description                                | Demo                 |
+|----------------------|--------------------------------------------|----------------------|
+| MERN NoteZipper      | A Full Stack Note-taking app.              | [Demo](https://note-zipper-2o9s.onrender.com/)      |
+| MERN Chat            | Real-time chat application.                | [Demo](https://chat-rlbn.onrender.com/chats/)        |
+| Real-Time Crypto Dashboard | Monitor cryptocurrency prices.       | [Demo](https://crypto-currency-app-red.vercel.app/) |
+| Tech Industry Project| A project related to the tech industry.   | [Demo](https://reactone-five.vercel.app/)          |
+| Video Hub Project    | A platform for sharing and watching videos.| [Demo](https://videohubproject.vercel.app/)        |
+| Shopping Cart Redux  | A shopping cart app using Redux.          | [Demo](https://shopping-cart-redux-gamma.vercel.app/) |
+
+### Contact Me
+
+- Email: piyushprateek231996@gmail.com
+- Portfolio Link: [piyushprateek-portfolio.vercel.app](https://piyushprateek-portfolio.vercel.app/)
+
+
+
 
 <!---
 piyushpratek/piyushpratek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
