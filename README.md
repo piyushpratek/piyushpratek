@@ -16,7 +16,7 @@ I'm a passionate Full Stack Developer specializing in MERN Stack development wit
 | Project Name         | Description                                | Live Project                 | GitHub Repo          |
 |----------------------|--------------------------------------------|----------------------|----------------------|
 |**MERN SOCIAL-MEDIA PROJECT** |A Full Stack Social Media Application.     |                                              | [Click here](https://github.com/piyushpratek/mern-socialmedia) |
-|**MERN ECOMMERCE PROJECT** |A Full Stack E-commerce Application.     |                                              | [Click here](https://github.com/piyushpratek/EcommerceMernProject) |
+|**MERN ECOMMERCE PROJECT** |A Full Stack E-commerce Application.     |   [View Live](https://ecommerce-06le.onrender.com/)  | [Click here](https://github.com/piyushpratek/EcommerceMernProject) |
 | **MERN NOTEZIPPER**      | A Full Stack Note-taking app.              | [View Live](https://note-zipper-2o9s.onrender.com/)      | [Click here](https://github.com/piyushpratek/NoteZipper) |
 | **MERN CHAT**            | Real-time Chat application.                | [View Live](https://chat-rlbn.onrender.com/chats/)        | [Click here](https://github.com/piyushpratek/mern-chat-app-piyush) |
 | **REAL-TIME CRYPTO DASHBOARD** | Monitor Cryptocurrency prices.       | [View Live](https://crypto-currency-app-red.vercel.app/) | [Click here](https://github.com/piyushpratek/CryptoCurrencyApp) |
