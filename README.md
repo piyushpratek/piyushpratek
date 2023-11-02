@@ -23,6 +23,7 @@ I'm a passionate Full Stack Developer specializing in MERN Stack development wit
 | **TECH INDUSTRY PROJECT**| A project related to the tech industry.    | [View Live](https://reactone-five.vercel.app/)             | [Click here](https://github.com/piyushpratek/TechIndustryProject) |
 | **VIDEO HUB PROJECT**    | A platform for sharing and watching videos.| [View Live](https://videohubproject.vercel.app/)           | [Click here](https://github.com/piyushpratek/VideoHubProject) |
 | **SHOPPING CART REDUX**  | A shopping cart app using Redux.           | [View Live](https://shopping-cart-redux-gamma.vercel.app/) | [Click here](https://github.com/piyushpratek/ShoppingCartRedux) |
+| **Coffee Recipe Project**    | A platform for seeing different coffee recipes.| [View Live](https://coffee-frontend-eight.vercel.app/)           | [Click here](Soon) |
 
 
 ### Contact Me
