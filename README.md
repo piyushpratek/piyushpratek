@@ -15,7 +15,7 @@ I'm a passionate Full Stack Developer specializing in MERN Stack development wit
 
 | Project Name         | Description                                | Live Project                 | GitHub Repo          |
 |----------------------|--------------------------------------------|----------------------|----------------------|
-|**AI-Object-Detection-using-Next.js PROJECT** |Next.js Object Detection.  | [View Live](https://object-detection-tawny.vercel.app/)          | [Click here](https://github.com/piyushpratek/object-detection) |
+|**AI-Object-Detection-using-Next.js ** |Next.js Object Detection.  | [View Live](https://object-detection-tawny.vercel.app/)          | [Click here](https://github.com/piyushpratek/object-detection) |
 |**Admin-Dashboard PROJECT** |Ecommerce Admin Dashboard.  | [View Live](https://admin-dashboard-sigma-smoky.vercel.app/)           | [Click here](https://github.com/piyushpratek/Admin-Dashboard) |
 |**MERN SOCIAL-MEDIA PROJECT** |A Full Stack Social Media Application.  | [View Live](https://socialapp-o3ep.onrender.com)           | [Click here](https://github.com/piyushpratek/mern-socialmedia) |
 |**MERN ECOMMERCE PROJECT** |A Full Stack E-commerce Application.       | [View Live](https://ecommerce-06le.onrender.com/)          | [Click here](https://github.com/piyushpratek/EcommerceMernProject) |
