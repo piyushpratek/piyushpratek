@@ -15,7 +15,7 @@ I'm a passionate Full Stack Developer specializing in MERN Stack development wit
 
 | Project Name         | Description                                | Live Project                 | GitHub Repo          |
 |----------------------|--------------------------------------------|----------------------|----------------------|
-|**Job_portal-React.js** |React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI  | [View Live]([https://object-detection-tawny.vercel.app/](https://job-portal-project-ochre.vercel.app/))          | [Click here](https://github.com/piyushpratek/Job-Portal-Project) |
+|**Job_portal-React.js** |React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI  | [View Live](https://job-portal-project-ochre.vercel.app/)          | [Click here](https://github.com/piyushpratek/Job-Portal-Project) |
 |**AI-Object-Detection-using-Next.js** |Next.js Object Detection.  | [View Live](https://object-detection-tawny.vercel.app/)          | [Click here](https://github.com/piyushpratek/object-detection) |
 |**Admin-Dashboard PROJECT** |Ecommerce Admin Dashboard.  | [View Live](https://admin-dashboard-sigma-smoky.vercel.app/)           | [Click here](https://github.com/piyushpratek/Admin-Dashboard) |
 |**MERN SOCIAL-MEDIA PROJECT** |A Full Stack Social Media Application.  | [View Live](https://socialapp-o3ep.onrender.com)           | [Click here](https://github.com/piyushpratek/mern-socialmedia) |
