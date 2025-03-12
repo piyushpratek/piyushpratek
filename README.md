@@ -15,7 +15,7 @@ I'm a passionate Full Stack Developer specializing in MERN Stack development wit
 
 | Project Name         | Description                                | Live Project                 | GitHub Repo          |
 |----------------------|--------------------------------------------|----------------------|----------------------|
-|**Ai-Career-Coach-Next.js** |Next.js with Gemini AI.  | [View Live](https://ai-career-coach-puce.vercel.app/)          | [Click here](https://github.com/piyushpratek/ai-career-coach) |
+|**Ai-Career-Coach-Next.js** |AI-powered career coaching platform built with Next.js, Clerk, Prisma, PostgreSQL, and Google Gemini. 🚀.  | [View Live](https://ai-career-coach-puce.vercel.app/)          | [Click here](https://github.com/piyushpratek/ai-career-coach) |
 |**Job-portal-React.js** |React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI  | [View Live](https://job-portal-project-ochre.vercel.app/)          | [Click here](https://github.com/piyushpratek/Job-Portal-Project) |
 |**AI-Object-Detection-using-Next.js** |Next.js Object Detection.  | [View Live](https://object-detection-tawny.vercel.app/)          | [Click here](https://github.com/piyushpratek/object-detection) |
 |**Admin-Dashboard PROJECT** |Ecommerce Admin Dashboard.  | [View Live](https://admin-dashboard-sigma-smoky.vercel.app/)           | [Click here](https://github.com/piyushpratek/Admin-Dashboard) |
