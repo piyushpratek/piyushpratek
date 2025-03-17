@@ -4,12 +4,12 @@ I'm a passionate Full Stack Developer specializing in MERN Stack development wit
 
 ### Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-★★★☆☆-blue)
-![React.js](https://img.shields.io/badge/React-★★★☆☆-blue)
-![Node.js](https://img.shields.io/badge/Node.js-★★★☆☆-green)
-![Express.js](https://img.shields.io/badge/Express.js-★★★☆☆-purple)
-![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-blue)
+![React.js](https://img.shields.io/badge/React-★★★★☆-blue)
+![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-green)
+![Express.js](https://img.shields.io/badge/Express.js-★★★★☆-purple)
+![MongoDB](https://img.shields.io/badge/MongoDB-★★★★☆-brightgreen)
 
 ### Featured Projects
 
